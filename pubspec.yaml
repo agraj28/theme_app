@@ -41,6 +41,9 @@ dependencies:
   http: ^1.0.0
   device_info_plus: ^9.0.2
   package_info_plus: ^4.0.2
+  
+  theme_app_framework:
+    path: ./sharp_sell_app/theme_app_framework
 
 
 dev_dependencies:
